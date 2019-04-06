@@ -1,0 +1,26 @@
+h1{
+    color: currentColor;
+    background: antiquewhite
+}
+
+body{
+  background-color: dimgrey;
+}
+
+.fblink{
+    
+    text-align: right;
+    padding: 50px
+}
+
+.main-pic{
+    width: 25%; height: auto;
+    max-width: 150px;
+    object-fit: cover;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.50);
+    margin: auto;
+    display: block;
+    margin-top: 25px;
+    top: 300px;
+    
+}
